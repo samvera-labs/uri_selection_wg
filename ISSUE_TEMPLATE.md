@@ -1,24 +1,20 @@
 # Requested Term
 
-**Term:** REQUIRED
+## Term (REQUIRED)
 
-**Label:** REQUIRED
+## Label (REQUIRED)
 
-**Comment:** REQUIRED
+## Comment (REQUIRED)
 
-**Type:** REQUIRED (mark with an 'x')
+## Type (REQUIRED - put an 'x' within the square brackets)
 
-- [ ] Property
-- [ ] Class
+- [  ] Property
+- [  ] Class
 
-**subClassOf:** OPTIONAL (URI)
+## subClassOf (OPTIONAL - please provide a URI)
 
-**subPropertyOf:** OPTIONAL (URI)
+## subPropertyOf (OPTIONAL - please provide a URI)
 
-**domain:** OPTIONAL (URI)
+## domain (OPTIONAL - please provide a URI)
 
-**range:** OPTIONAL (URI)
-
- 
- 
-
+## range (OPTIONAL - please provide a URI)
