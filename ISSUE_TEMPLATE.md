@@ -7,8 +7,11 @@ Please provide the following information about the new predicate or class.
 ## Label 
 (REQUIRED - a descriptive label)
 
+## Definition 
+(REQUIRED - provide a definition for the term)
+
 ## Comment 
-(REQUIRED - provide a layperson's description of the term
+(OPTIONAL - provide any further description or comment for the term)
 
 ## Type
 (REQUIRED - put an 'x' within the square brackets)
