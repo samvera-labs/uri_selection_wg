@@ -1,5 +1,5 @@
 # Requested Term
-Please provide the following information about the new predicate.
+Please provide the following information about the new predicate or class.
 
 ## Term 
 (REQUIRED - in the form myTerm)
@@ -8,7 +8,7 @@ Please provide the following information about the new predicate.
 (REQUIRED - a descriptive label)
 
 ## Comment 
-(REQUIRED - provide a layperson's description of the term of the term)
+(REQUIRED - provide a layperson's description of the term
 
 ## Type
 (REQUIRED - put an 'x' within the square brackets)
@@ -17,10 +17,10 @@ Please provide the following information about the new predicate.
 - [  ] Class
 
 ## subClassOf
-(OPTIONAL - please provide a URI)
+(OPTIONAL - please provide a URI if the requested term is a Class)
 
 ## subPropertyOf
-(OPTIONAL - please provide a URI)
+(OPTIONAL - please provide a URI if the requested term is a Property)
 
 ## domain
 (OPTIONAL - please provide a URI)
